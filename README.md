@@ -32,9 +32,10 @@ It combines **Python**, **SQL**, and **Power BI** for a full-stack analytical wo
 ### 📂 Project Files
 | File | Description |
 |------|--------------|
-| `zomato_analysis.py` | Python script for data cleaning and analysis |
-| `zomato_queries.sql` | SQL queries used for data extraction |
-| `Zomato_Dashboard.pbix` | Power BI dashboard file |
+| `zomato.ipynb` | Python script for data cleaning and analysis |
+| `zomato.sql` | SQL queries used for data extraction |
+| `Zomato_Dashboard.jpg` | Power BI dashboard file |
+| `zomato_data-.csv` | Dataset used for analysis |
 
 ---
 
